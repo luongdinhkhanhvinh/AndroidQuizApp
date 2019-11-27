@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="ten_dang_nhap">Tên đăng nhập</string>
+    <string name="mat_khau">Mật Khẩu</string>
+    <string name="dang_nhap">Đăng Nhập</string>
+    <string name="quen_mat_khau">Quên Mật Khẩu</string>
+    <string name="dang_ky">Đăng ký</string>
+    <string name="dang_nhap_voi_facebook">Đăng Nhập Với FaceBook</string>
+    <string name="dang_nhap_voi_google">Đăng Nhập Với Google</string>
+    <string name="tb_dang_nhap">Tên Tài Khoản hoặc Mật Khẩu Không đúng</string>
+    <string name="tb_dang_ky_tb">Đăng Kí Thất Bại</string>
+    <string name="tb_dang_ky_tc">Đăng Kí Thành Công</string>
+    <string name="email">Email</string>
+    <string name="xac_nhan_mat_khau">Xác Nhận Mật Khẩu</string>
+    <string name="lay_lai_mat_khau">Lấy lại mật khẩu</string>
+    <string name="tb_quen_mat_khau_tb">User Không tồn tại</string>
+    <string name="tb_quen_mat_khau_tc">Password đã được reset</string>
+
+
+    <!--instruction  messages-->
+    <string name="how_to_play">Hướng dẫn chơi</string>
+    <string name="has_option">Quiz game có 4 lựa chọn</string>
+    <string name="msg_right">Đối với một câu hỏi trả lời đúng thì sẽ được cộng 5 điểm credit.</string>
+    <string name="msg_wrong">Trừ 2 điểm cho mỗi câu trả lời sai</string>
+    <string name="msg_lifeline">Tại mỗi dòng:bạn chỉ có thể trả lời 1 đáp án mà bạn cho là đúng</string>
+    <string name="msg_fifty_fifty">50 – 50 : dùng để loại trừ đi 2 đáp án sai chỉ giữ lại 2 đáp án đúng.</string>
+    <string name="msg_skip">Gọi điện thoại cho người thân:bạn có thể liên lạc với một người mà hệ thống cho sẵn ,mỗi lần sử dụng sẻ bị trừ đi 2 điểm.</string>
+    <string name="msg_opinion">Hỏi ý kiến :Bạn có thể hỏi ý kiến của một người xuất hiện trên màn hình ,mỗi lần sử dụng sẽ bị trừ đi 4 điểm.</string>
+    <string name="msg_reset">Đặt giờ lại:đặt lại giờ chơi để bạn có đủ thời gian trả lời câu hỏi đó,mỗi lần sử dụng sẽ bị trừ đi 4 điểm.</string>
+    <string name="msg_leaderboard">Bạn có thể so sánh điểm chơi của bạn với một người khác cũng đang chơi trên hệ thống</string>
+    <string name="msg_achievement">Bạn có thể đạt được thành tích và cấp độ khác nhau tùy thuộc vào mỗi lần chơi</string>
+    <string name="leaderboard">Người hướng dẫn</string>
+    <string name="textsize_dialog_lbl_fontsize">Cở chữ</string>
+    <string name="font_size">Cở chữ</string>
+</resources>

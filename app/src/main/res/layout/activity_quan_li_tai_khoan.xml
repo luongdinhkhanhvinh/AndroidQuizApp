@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:background="@drawable/background"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="203dp"
+        app:srcCompat="@drawable/profile" />
+
+    <Button
+        android:id="@+id/btnDoiHinhDaiDien"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@null"
+        android:gravity="center"
+        android:onClick="XuLiDoiHinhDaiHien"
+        android:text="Đổi hình đại diện"
+        android:textColor="#2196F3" />
+
+    <EditText
+        android:id="@+id/edtTenDangNhap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên Đăng Nhập"
+        />
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        />
+    <EditText
+        android:id="@+id/edtMatKhau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mật Khẩu"
+        />
+
+    <EditText
+        android:id="@+id/edtXacNhanMatKhau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Xác Nhận Mật Khẩu"
+        />
+
+    <Button
+        android:id="@+id/btnDangKi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196F3"
+        android:text="Cập Nhật"
+        android:textColor="#F5F7EDED" />
+
+</LinearLayout>
